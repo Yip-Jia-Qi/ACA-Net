@@ -8,12 +8,12 @@ In this paper, we propose ACA-Net, a lightweight, global context-aware speaker e
 Please, cite ACA-Net if you use it for your research or business.
 
 ```bibtex
-@misc{yip2023acanet,
-      title={ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention}, 
-      author={Jia Qi Yip and Tuan Truong and Dianwen Ng and Chong Zhang and Yukun Ma and Trung Hieu Nguyen and Chongjia Ni and Shengkui Zhao and Eng Siong Chng and Bin Ma},
-      year={2023},
-      eprint={2305.12121},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
+@inproceedings{yip23_interspeech,
+  author={Jia Qi Yip and Duc-Tuan Truong and Dianwen Ng and Chong Zhang and Yukun Ma and Trung Hieu Nguyen and Chongjia Ni and Shengkui Zhao and Eng Siong Chng and Bin Ma},
+  title={{ACA-Net: Towards Lightweight Speaker Verification using Asymmetric Cross Attention}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={1938--1942},
+  doi={10.21437/Interspeech.2023-1725}
 }
 ```
